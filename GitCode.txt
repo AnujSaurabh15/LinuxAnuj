@@ -1,0 +1,12 @@
+
+cd: Command to change the current or active directory
+
+sudo su: Command to change the current user as a super/root user
+
+mv: Command to move a file or rename a file
+
+rm: Command to remove files in a directory or the directory itself
+
+rm r: Command to remove all the contents in a directory and the directory as well
+
+mkdir: Command to create a directory in the current directory
