@@ -1,0 +1,19 @@
+Steps to add local file to git hub
+
+*****************Adding local files to git Hub******************
+
+Step 1: At First you need to create one repository in your GitHub accout
+Step 2: Then clone it by giving below codes
+          git clone <url: URL of that repository which u want to clone>
+Step 3: Then create any files in local repository and then add that
+           git add .
+Step 4: Then git commit –m <commit msg>
+
+Step 5: Then do some branching 
+          git branch –M main
+Step 6: then do remote add
+          git remote add origin <url>
+Step 7: then do Git Push to origin
+          git push –u origin main
+          
+Step 8: and all done check for git status.
